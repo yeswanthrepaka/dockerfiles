@@ -5,4 +5,4 @@ ARG COURSE="AWS" \
     DURATION="2HRS"
 
 RUN echo "Course is ${COURSE}, trainer is ${TRAINER} and duration is ${DURATION}"
-CMD ["sleep", "100"]
+cmd ["sleep", "100"]
