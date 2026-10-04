@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL COURSE=AWS \
+      TRAINER=SHIVA \
+      DURATION=2HRS
